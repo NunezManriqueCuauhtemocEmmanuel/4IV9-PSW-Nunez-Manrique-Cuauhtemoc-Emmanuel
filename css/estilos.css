@@ -6,5 +6,8 @@
 #fuentep{
     font-family: 'miFuente';
     font-size: 24px;
-    text-align: center;
+}
+#fuentes{
+    font-family: 'miFuente';
+    font-size: 16px;
 }
