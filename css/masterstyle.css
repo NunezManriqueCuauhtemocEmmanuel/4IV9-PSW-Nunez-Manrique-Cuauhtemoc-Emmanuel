@@ -10,7 +10,7 @@ html, body{
     margin: 2rem;
 }
 
-.vaca{
+.box{
     display:inline-block;
     width: 65% ;
     height: auto ;
@@ -51,7 +51,6 @@ aside > h3{
 }
 img{
     border-radius: 10px;
-    border: 5px solid #3f2106;
 }
 footer{
     width: 25%;
