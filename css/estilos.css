@@ -2,7 +2,10 @@
     font-family: 'miFuente';
     src: url(../fuentes/Tourner.ttf);
 }
-
+@font-face{
+    font-family: 'mine';
+    src: url(../fuentes/Minecrafter.Alt.ttf)
+}
 #fuentep{
     font-family: 'miFuente';
     font-size: 24px;
@@ -10,4 +13,8 @@
 #fuentes{
     font-family: 'miFuente';
     font-size: 16px;
+}
+#fuentem{
+    font-family: 'mine';
+    font-size:12px;
 }
