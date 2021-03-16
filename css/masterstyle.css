@@ -31,8 +31,8 @@ aside{
     width: 25%;
     display:inline-block;
     height: 300px;
-    background-color: rgb(107, 107, 107);
-    border: 2px solid rgb(0, 0, 0);
+    background: url(../img/fondo.png);
+    border: 2px solid rgb(29, 34, 61);
     border-radius: 100%;
     text-align: center;
 }
@@ -40,7 +40,7 @@ aside{
 aside > h3{
     text-align: center;
     position: relative;
-    top: 50%;
+    top: 60%;
 }
 
 .bagre{
