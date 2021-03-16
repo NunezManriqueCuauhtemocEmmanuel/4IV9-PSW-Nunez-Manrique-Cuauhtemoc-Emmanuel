@@ -7,7 +7,6 @@ html, body{
     border: 5px solid rgb(29, 30, 87);
     border-radius: 10px;
     margin: 2rem;
-    background-color: #ffffff;
 }
 
 .vaca{
@@ -16,7 +15,7 @@ html, body{
     height: auto ;
     float: left;
     text-align: left ;
-    background-color: rgb(168, 168, 168);
+    background-color: rgb(255, 255, 255);
 }
 
 nav, section, footer, article{
@@ -50,6 +49,6 @@ aside > h3{
     top: ;
     left: 0% ;
 }
-nav, section, footer{
-    background-color: #dadada;
+nav, footer{
+    background: url(../img/fondo.png);
 }
