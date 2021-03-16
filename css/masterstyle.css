@@ -1,6 +1,7 @@
 
 html, body{
-    background: url(../img/pick.jpg);
+    background: url(../img/fm.jpg);
+    background-repeat: no-repeat;
 }
 
 .main-container{
